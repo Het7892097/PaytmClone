@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Paytm\\Backend_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\jwt\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\jwt\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\dto\\user_cudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\user_cudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\mappers\\acccu_dtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\mappers\\acccu_dtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\dto\\sendmoneydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\sendmoneydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\interfaces\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\interfaces\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\mappers\\userdtolistmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\mappers\\userdtolistmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\mappers\\usercu_mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\mappers\\usercu_mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\mappers\\userdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\mappers\\userdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\mappers\\accountdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\mappers\\accountdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|d:\\projects\\paytm\\backend_api\\backend_api\\dto\\usersigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF15D-FF99-487A-A7B0-F6BD1B786FEA}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\usersigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend_API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\appsettings.json",
+              "RelativeToolTip": "Backend_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T16:35:10.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\JWT\\Generator.cs",
+              "RelativeDocumentMoniker": "Backend_API\\JWT\\Generator.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\JWT\\Generator.cs",
+              "RelativeToolTip": "Backend_API\\JWT\\Generator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:47:36.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Repository\\UserRepo.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "Backend_API\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwE8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:22:14.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Backend_API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:42:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend_API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T08:19:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Backend_API\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Backend_API\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:56:28.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend_API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:42:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Program.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Program.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Program.cs",
+              "RelativeToolTip": "Backend_API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:33:05.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a7673ab8-96c2-4f8f-86b9-ef4527b5383a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User_CUDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\User_CUDTO.cs",
+              "RelativeDocumentMoniker": "Backend_API\\DTO\\User_CUDTO.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\User_CUDTO.cs",
+              "RelativeToolTip": "Backend_API\\DTO\\User_CUDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:24:14.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Repository\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Repository\\AccountRepo.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Repository\\AccountRepo.cs",
+              "RelativeToolTip": "Backend_API\\Repository\\AccountRepo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:14:16.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "Backend_API\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:18:13.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccCU_DTOMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\AccCU_DTOMapper.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Mappers\\AccCU_DTOMapper.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\AccCU_DTOMapper.cs",
+              "RelativeToolTip": "Backend_API\\Mappers\\AccCU_DTOMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T02:44:12.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Models\\Account.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Models\\Account.cs",
+              "RelativeToolTip": "Backend_API\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:27:16.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Backend_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:11:54.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SendMoneyDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\SendMoneyDTO.cs",
+              "RelativeDocumentMoniker": "Backend_API\\DTO\\SendMoneyDTO.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\SendMoneyDTO.cs",
+              "RelativeToolTip": "Backend_API\\DTO\\SendMoneyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T02:22:39.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAccountRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Interfaces\\IAccountRepo.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Interfaces\\IAccountRepo.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Interfaces\\IAccountRepo.cs",
+              "RelativeToolTip": "Backend_API\\Interfaces\\IAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:00:55.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDTOListMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\UserDTOListMapper.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Mappers\\UserDTOListMapper.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\UserDTOListMapper.cs",
+              "RelativeToolTip": "Backend_API\\Mappers\\UserDTOListMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:23:53.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Models\\User.cs",
+              "RelativeToolTip": "Backend_API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:20:11.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Database\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Database\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Database\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Backend_API\\Database\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:23:24.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDTOMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\UserDTOMapper.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Mappers\\UserDTOMapper.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\UserDTOMapper.cs",
+              "RelativeToolTip": "Backend_API\\Mappers\\UserDTOMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:50:22.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountDTOMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\AccountDTOMapper.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Mappers\\AccountDTOMapper.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\AccountDTOMapper.cs",
+              "RelativeToolTip": "Backend_API\\Mappers\\AccountDTOMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:00:24.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserCU_Mapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\UserCU_Mapper.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Mappers\\UserCU_Mapper.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Mappers\\UserCU_Mapper.cs",
+              "RelativeToolTip": "Backend_API\\Mappers\\UserCU_Mapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:31:21.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserSignDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\UserSignDTO.cs",
+              "RelativeDocumentMoniker": "Backend_API\\DTO\\UserSignDTO.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\UserSignDTO.cs",
+              "RelativeToolTip": "Backend_API\\DTO\\UserSignDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:19:53.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "Backend_API\\DTO\\AccountDTO.cs",
+              "ToolTip": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\DTO\\AccountDTO.cs",
+              "RelativeToolTip": "Backend_API\\DTO\\AccountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:59:00.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

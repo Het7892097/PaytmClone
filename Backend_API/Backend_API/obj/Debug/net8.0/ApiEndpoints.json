@@ -1,0 +1,98 @@
+[
+  {
+    "ContainingType": "Backend_API.Controllers.AccountController",
+    "Method": "BalanceGetter",
+    "RelativePath": "api/v1/account/Balance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_API.Controllers.AccountController",
+    "Method": "MoneySender",
+    "RelativePath": "api/v1/account/transfer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "Backend_API.DTO.SendMoneyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_API.Controllers.UserController",
+    "Method": "UserGetter",
+    "RelativePath": "api/v1/user/GetUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_API.Controllers.UserController",
+    "Method": "Signer",
+    "RelativePath": "api/v1/user/signin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDetails",
+        "Type": "Backend_API.DTO.UserSignDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_API.Controllers.UserController",
+    "Method": "SigninUp",
+    "RelativePath": "api/v1/user/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDetails",
+        "Type": "Backend_API.DTO.User_CUDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_API.Controllers.UserController",
+    "Method": "Updater",
+    "RelativePath": "update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDetails",
+        "Type": "Backend_API.DTO.User_CUDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
