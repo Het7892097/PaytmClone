@@ -4438,11 +4438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Backend_API.csproj",
+      "projectUniqueName": "D:\\Projects\\PaytmClone\\Backend_API\\Backend_API\\Backend_API.csproj",
       "projectName": "Backend_API",
-      "projectPath": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\Backend_API.csproj",
+      "projectPath": "D:\\Projects\\PaytmClone\\Backend_API\\Backend_API\\Backend_API.csproj",
       "packagesPath": "C:\\Users\\het41\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Paytm\\Backend_API\\Backend_API\\obj\\",
+      "outputPath": "D:\\Projects\\PaytmClone\\Backend_API\\Backend_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\het41\\AppData\\Roaming\\NuGet\\NuGet.Config",
